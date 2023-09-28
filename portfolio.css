@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+.container {
+    margin-top: 50px;
+   background-image: url();
+   background-image: url(./images/white.jpg);
+}
+img {
+    height: 500px;
+    width: 300px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.heading {
+    font-size: 80px;
+    margin-top: 50px;
+    font-family: cursive;
+}
+.bio {
+    font-size: 30px;
+    margin-top: 40px;
+    font-style: oblique;
+    color: darkblue;
+}
+.contact-me {
+    align-content: center;
+}
+.bottom-container {
+    align-content: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.btn {
+    text-align: center;
+}
+button {
+    margin-left: 550px;
+    height: 50px;
+    width: 200px;
+    background-color: lightblue;
+}
+.footer-link{
+    text-align: center;
+} 
+.right {
+    justify-content: right;
+}
+.left {
+    justify-content: left;
+}
+.center {
+    justify-content: center;
+}
+p {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}
